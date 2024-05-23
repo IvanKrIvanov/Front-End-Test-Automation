@@ -1,0 +1,46 @@
+h1 {
+    color: blue;
+}
+
+#h3_element{
+    color: red;
+}
+
+.par1{
+    color: chartreuse;
+}
+
+.par2{
+    color: yellow;
+}
+
+*{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#H4 .par1
+{
+margin-left: 100px;
+}
+
+section p {
+    color: blue;
+}
+section > p{
+color: yellow;
+}
+
+body {
+    background-image: url("./softunilogo.png");
+    
+}
+
+p{
+    text-align: center;
+    text-decoration: underline;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    border-style: dashed;
+    border-color: coral;
+}
