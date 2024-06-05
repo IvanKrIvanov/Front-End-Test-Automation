@@ -1,0 +1,15 @@
+{
+  "name": "functionandtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_functions.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "qunit": "^2.21.0"
+  }
+}
