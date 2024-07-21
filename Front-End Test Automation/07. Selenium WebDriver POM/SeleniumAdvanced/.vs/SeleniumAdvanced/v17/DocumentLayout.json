@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96850655-AE3D-445D-82B9-D3FA5816E98E}|SumNumberPage\\SumNumberPage.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\sumnumberpage\\sumnumberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96850655-AE3D-445D-82B9-D3FA5816E98E}|SumNumberPage\\SumNumberPage.csproj|solutionrelative:sumnumberpage\\sumnumberpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pages\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pages\\addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pages\\viewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pages\\viewstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pagestests\\addstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pagestests\\addstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pagestests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pagestests\\basetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pagestests\\viewstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pagestests\\viewstudentspagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\studentsregistrypom\\pagestests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9D9290-B74F-48EF-9732-E9DED2FCB231}|StudentsRegistryPOM\\StudentsRegistryPOM.csproj|solutionrelative:studentsregistrypom\\pagestests\\homepagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96850655-AE3D-445D-82B9-D3FA5816E98E}|SumNumberPage\\SumNumberPage.csproj|c:\\users\\mddim\\onedrive\\desktop\\seleniumadvanced\\sumnumberpage\\sumnumberpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96850655-AE3D-445D-82B9-D3FA5816E98E}|SumNumberPage\\SumNumberPage.csproj|solutionrelative:sumnumberpage\\sumnumberpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\BasePage.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:55:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\HomePage.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\Pages\\HomePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:55:18.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewStudents.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\ViewStudents.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\Pages\\ViewStudents.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\ViewStudents.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\Pages\\ViewStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:55:26.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudent.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\AddStudent.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\Pages\\AddStudent.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\Pages\\AddStudent.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\Pages\\AddStudent.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:16:02.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumNumberPage.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\SumNumberPage\\SumNumberPage.cs",
+              "RelativeDocumentMoniker": "SumNumberPage\\SumNumberPage.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\SumNumberPage\\SumNumberPage.cs",
+              "RelativeToolTip": "SumNumberPage\\SumNumberPage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:35:46.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentsPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\PagesTests\\AddStudentsPageTests.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwDwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:18:23.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\BaseTests.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\PagesTests\\BaseTests.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\BaseTests.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\PagesTests\\BaseTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:58:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewStudentsPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\PagesTests\\ViewStudentsPageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:19:37.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePageTests.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "RelativeDocumentMoniker": "StudentsRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\StudentsRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "RelativeToolTip": "StudentsRegistryPOM\\PagesTests\\HomePageTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:59:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SumNumberPageTests.cs",
+              "DocumentMoniker": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\SumNumberPage\\SumNumberPageTests.cs",
+              "RelativeDocumentMoniker": "SumNumberPage\\SumNumberPageTests.cs",
+              "ToolTip": "C:\\Users\\mddim\\OneDrive\\Desktop\\SeleniumAdvanced\\SumNumberPage\\SumNumberPageTests.cs",
+              "RelativeToolTip": "SumNumberPage\\SumNumberPageTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:46:48.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
