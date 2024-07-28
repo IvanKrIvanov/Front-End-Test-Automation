@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppiumDemoProject", "AppiumDemoProject\AppiumDemoProject.csproj", "{9A055697-F255-49F5-B703-11FF3A922BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorNoteAppTesting", "ColorNoteAppTesting\ColorNoteAppTesting.csproj", "{D06E5159-C1BD-4DA9-B593-9A2043074833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A055697-F255-49F5-B703-11FF3A922BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A055697-F255-49F5-B703-11FF3A922BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A055697-F255-49F5-B703-11FF3A922BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A055697-F255-49F5-B703-11FF3A922BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06E5159-C1BD-4DA9-B593-9A2043074833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06E5159-C1BD-4DA9-B593-9A2043074833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06E5159-C1BD-4DA9-B593-9A2043074833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06E5159-C1BD-4DA9-B593-9A2043074833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F6241EF-EE05-4E84-98D2-EB06D9C95C35}
+	EndGlobalSection
+EndGlobal
