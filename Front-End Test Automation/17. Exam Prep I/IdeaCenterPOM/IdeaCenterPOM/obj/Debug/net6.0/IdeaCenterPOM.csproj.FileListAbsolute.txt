@@ -1,0 +1,5 @@
+D:\Иван\QA SoftUni\Front-End Test Automation\Front-End Test Automation\10. Exercise Appium Mobile - Part 1\IdeaCenterPOM\IdeaCenterPOM\obj\Debug\net6.0\IdeaCenterPOM.csproj.AssemblyReference.cache
+D:\Иван\QA SoftUni\Front-End Test Automation\Front-End Test Automation\10. Exercise Appium Mobile - Part 1\IdeaCenterPOM\IdeaCenterPOM\obj\Debug\net6.0\IdeaCenterPOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Front-End Test Automation\Front-End Test Automation\10. Exercise Appium Mobile - Part 1\IdeaCenterPOM\IdeaCenterPOM\obj\Debug\net6.0\IdeaCenterPOM.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Front-End Test Automation\Front-End Test Automation\10. Exercise Appium Mobile - Part 1\IdeaCenterPOM\IdeaCenterPOM\obj\Debug\net6.0\IdeaCenterPOM.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Front-End Test Automation\Front-End Test Automation\10. Exercise Appium Mobile - Part 1\IdeaCenterPOM\IdeaCenterPOM\obj\Debug\net6.0\IdeaCenterPOM.csproj.CoreCompileInputs.cache
